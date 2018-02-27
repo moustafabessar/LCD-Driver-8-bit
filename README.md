@@ -1,1 +1,1 @@
-# LCD-Driver-8-bit
+Calculator working on ATmega32 MCU
